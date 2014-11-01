@@ -1,0 +1,20 @@
+{
+  "name": "project_name",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marcosgabarda/workshop-deploying-django",
+  "authors": [
+    "Marcos Gabarda <me@marcosgabarda.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "btp/static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.0"
+  }
+}
