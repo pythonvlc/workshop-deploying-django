@@ -2,4 +2,4 @@
 uwsgi==2.0.8
 gevent==1.0.1
 PyMySQL==0.6.2
-gunicorn
+gunicorn==19.1.1
